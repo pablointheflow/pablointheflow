@@ -74,7 +74,7 @@ i{
 /* DEFINO EL ANCHO DE LA BARRA SEPARADORA */
 #divisor{
   width: 60%;
-  margin: 10px;
+  margin: 30px;
   display: inline-block;
 }
 
@@ -214,7 +214,7 @@ header a:hover{
 
 #mas_info{
   text-align: center;
-  padding: 10px;
+  padding: 20px;
 }
 
 /* SECCION ESTUDIOS*/
